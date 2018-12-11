@@ -1,4 +1,4 @@
-# pushstate-server
+# pushstate-server (Forked to upgrade vulnerable dependencies)
 
 Static file server that works with HTML5 Pushstate.
 
